@@ -1,0 +1,18 @@
+{
+    "school": {
+        "name": "Ashland Middle School",
+        "street": "100 Valker Ave",
+        "city": "Ashland",
+        "state": "Or",
+        "zip": "97520",
+        "phone": "541.482.1611",
+        "fax": "541.482.1612"
+    },
+    "student": {
+        "first": "",
+        "last": "",
+        "id": "",
+        "city": "",
+        "zip": ""
+    }
+}

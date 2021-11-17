@@ -1,0 +1,31 @@
+{
+    "phantom": {
+        "waitForJS": true
+    },
+    "recipe": "html",
+    "engine": "handlebars",
+    "scripts": [],
+    "name": "report",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "",
+        "marginRight": "",
+        "marginBottom": "",
+        "marginLeft": "",
+        "waitForJS": false,
+        "format": ""
+    },
+    "pdfOperations": [],
+    "creationDate": {
+        "$$date": 1637110094274
+    },
+    "modificationDate": {
+        "$$date": 1637113652136
+    },
+    "shortid": "9oGfDjU",
+    "_id": "A3kPfpDqiRhsDiyF",
+    "$entitySet": "templates",
+    "data": {
+        "shortid": "HyeEQGAZdF"
+    }
+}
